@@ -1,4 +1,8 @@
-layout_spectrum: 0.62841
+favicon: null
+cta:
+  bucket: null
+  version: null
+  domain: null
 opengraph:
   image: null
   type: null
@@ -9,17 +13,17 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 purpose: []
 color:
-  saturation: 0.06193919
-  lightness: 0.3835126
+  saturation: 0.7455197
   brandStrength: 0
+  lightness: 0.3225806
   brandColors:
     - '#f7f5fa'
     - '#151a04'
@@ -28,13 +32,9 @@ color:
     - '#04ae94'
   rhythmicContrast: 0.8253431
 typography_spectrum: 0.5310636
-cta:
-  bucket: null
-  version: null
-  domain: null
+layout_spectrum: 0.62841
 analytics:
   twitter: null
   google: null
   facebook: null
-favicon: null
 name: Thechouins
