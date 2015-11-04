@@ -1,8 +1,23 @@
+name: Thechouins
+favicon: null
 layout_spectrum: 0.1524131
 typography_spectrum: 0.5310636
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.06193919
-  lightness: 0.9191822
+  brandColors: []
   brandStrength: 0.4026587
+  lightness: 0.9191822
+  saturation: 0.06193919
   rhythmicContrast: 0.8253431
-name: Thechouins
+purpose: []
