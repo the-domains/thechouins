@@ -14,6 +14,7 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
+title: The Chouins
 cta:
   domain: null
   bucket: null
