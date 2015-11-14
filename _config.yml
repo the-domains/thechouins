@@ -14,8 +14,8 @@ collections:
       number: 10
 color:
   saturation: 0.625
+  lightness: 0.1236559
   brandStrength: 0
-  lightness: 0.4139785
   brandColors:
     - '#f7f5fa'
     - '#151a04'
@@ -31,8 +31,8 @@ analytics:
   twitter: null
   google: null
   facebook: null
-name: Thechouins
 favicon: null
+name: Thechouins
 opengraph:
   image: null
   type: null
