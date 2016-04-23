@@ -1,5 +1,30 @@
-title: The Chouins
-purpose: []
+typography_spectrum: 0.5310636
+color:
+  saturation: 0.625
+  lightness: 0.1236559
+  brandStrength: 0
+  brandColors:
+    - '#f7f5fa'
+    - '#151a04'
+    - '#bfccdf'
+    - '#003e6a'
+    - '#04ae94'
+  rhythmicContrast: 1
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.693
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+name: Thechouins
+cta:
+  bucket: null
+  version: null
+  domain: null
+favicon: null
 collections:
   - index:
       path: /
@@ -12,30 +37,5 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-color:
-  saturation: 0.625
-  lightness: 0.1236559
-  brandStrength: 0
-  brandColors:
-    - '#f7f5fa'
-    - '#151a04'
-    - '#bfccdf'
-    - '#003e6a'
-    - '#04ae94'
-  rhythmicContrast: 1
-cta:
-  bucket: null
-  version: null
-  domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-favicon: null
-name: Thechouins
-opengraph:
-  image: null
-  type: null
-  appId: null
-typography_spectrum: 0.5310636
-layout_spectrum: 0.693
+title: The Chouins
+purpose: []
