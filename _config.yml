@@ -1,5 +1,4 @@
 typography_spectrum: 0.5310636
-style: the-composer
 color:
   saturation: 0.625
   lightness: 0.1236559
@@ -39,4 +38,5 @@ collections:
       format: rss
       number: 10
 title: The Chouins
+description: la familia
 purpose: []
